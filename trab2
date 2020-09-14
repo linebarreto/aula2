@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt">
+  <body>
+   <ul>
+    <li><a href="#">home</a></li>
+    <li><a href="#">sobre nós</a></li>
+    <li><a href="#">cutiosidades</a></li>
+   </ul>
+
+    <div>
+     <img src="imgm1.jpg">
+    </div>
+
+   <form action="/pagina-processa-dados-do-form" method="post">
+    <div>
+        <label for="name">Nome:</label>
+        <input type="text" id="name" />
+    </div>
+    <div>
+        <label for="mail">E-mail:</label>
+        <input type="email" id="mail" />
+    </div>
+    <div>
+        <label for="msg">Mensagem:</label>
+        <textarea id="msg"></textarea>
+    </div>
+    <div class="button">
+        <button type="submit">Enviar</button>
+    </div>
+   </form>
+
+   <footer>
+    <p>Faça sua parte pelas tartarugas.</p> 
+   </footer>
+  </body>
+</html>
+
+ 
