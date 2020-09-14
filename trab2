@@ -3,7 +3,7 @@
   <body>
    <ul>
     <li><a href="#">home</a></li>
-    <li><a href="#">sobre nós</a></li>
+    <li><a href="#">contato</a></li>
     <li><a href="#">cutiosidades</a></li>
    </ul>
 
@@ -30,7 +30,7 @@
    </form>
 
    <footer>
-    <p>Faça sua parte pelas tartarugas.</p> 
+    <p>Procure a unidade mais próxima de você.</p> 
    </footer>
   </body>
 </html>
